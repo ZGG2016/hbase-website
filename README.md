@@ -4,7 +4,7 @@
 
 ### 1、序言
 
-Hbase 官网阅读整理：[https://hbase.apache.org/2.2/book.html](https://hbase.apache.org/2.2/book.html)
+Hbase 2.2 官网阅读整理：[https://hbase.apache.org/2.2/book.html](https://hbase.apache.org/2.2/book.html)
 
 ### 2、总体目录
 
@@ -12,7 +12,7 @@ Hbase 官网阅读整理：[https://hbase.apache.org/2.2/book.html](https://hbas
 
 - [Getting Started](https://github.com/ZGG2016/knowledgesystem/blob/master/09%20HBase/%E5%AE%98%E7%BD%91%E9%98%85%E8%AF%BB/Getting%20Started.md)
 
-- [Data Model]()
+- [Data Model](https://github.com/ZGG2016/hbase-website/blob/master/Data%20Model/0%E7%9B%AE%E5%BD%95.md)
 
 - [HBase and Schema Design](https://github.com/ZGG2016/knowledgesystem/blob/master/09%20HBase/%E5%AE%98%E7%BD%91%E9%98%85%E8%AF%BB/HBase%20and%20Schema%20Design/0%E7%9B%AE%E5%BD%95.md)
 
